@@ -1,0 +1,11 @@
+@import "tailwindcss";
+/* index.css */
+html, body, #root {
+  height: 100%;
+  background: #000; /* keep dark by default */
+}
+
+/* ensure react-three canvas is visually transparent to pointer events */
+canvas {
+  pointer-events: none;
+}
