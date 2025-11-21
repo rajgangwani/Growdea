@@ -23,7 +23,7 @@ export default function Hero() {
         </motion.h1>
 
         <motion.p initial={{opacity:0}} animate={{opacity:1}} transition={{delay:0.2,duration:0.6}} className="text-gray-300 mt-6 max-w-3xl mx-auto text-lg">
-          Analogue — a silicon-accelerated platform that simulates molecular interactions and ranks candidates with lab-grade confidence.
+          Analogue — a Insilico-accelerated platform that simulates molecular interactions and ranks candidates with lab-grade confidence.
         </motion.p>
 
         <div className="mt-8 flex items-center justify-center gap-4">
