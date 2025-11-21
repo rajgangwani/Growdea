@@ -7,7 +7,7 @@ export default function Footer() {
           Growdea Technologies
         </h2>
         <p className="text-gray-400">
-          Accelerating drug discovery with AI, silicon simulations, and molecular intelligence.
+          Accelerating drug discovery with AI, insilico simulations, and molecular intelligence.
         </p>
 
         <div className="mt-6 flex justify-center space-x-6 text-gray-400">
