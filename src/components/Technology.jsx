@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const features = [
   {
-    title: "Silicon Molecular Simulation",
+    title: "Insilico Molecular Simulation",
     desc: "High-precision insilico-accelerated molecular dynamics that outperform traditional CPU simulations.",
     icon: "🧬",
   },
