@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const features = [
   {
     title: "Silicon Molecular Simulation",
-    desc: "High-precision silicon-accelerated molecular dynamics that outperform traditional CPU simulations.",
+    desc: "High-precision insilico-accelerated molecular dynamics that outperform traditional CPU simulations.",
     icon: "🧬",
   },
   {
@@ -27,7 +27,7 @@ export default function Technology() {
       <div className="relative z-10 max-w-7xl mx-auto px-6">
         
         <h2 className="text-center text-4xl md:text-5xl font-extrabold mb-14">
-          <span className="text-teal-400">Silicon Technology</span> that Powers Discovery
+          <span className="text-teal-400">Insilico Technology</span> that Powers Discovery
         </h2>
 
         <div className="grid md:grid-cols-3 gap-10">
